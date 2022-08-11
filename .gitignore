@@ -1,0 +1,4 @@
+node_modules
+merge/*.tif
+mbtiles/*.mbtiles
+mbtiles/*
