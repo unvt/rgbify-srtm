@@ -21,6 +21,8 @@ node index4rgb.js
 If there is the file in merge/mbtiles folder, it skips the conversion.
 
 # Other 
-This is originally developed at https://github.com/ubukawa/srtm-rgbify
+This is originally developed at https://github.com/ubukawa/srtm-rgbify   
+
+FYI: https://qiita.com/T-ubu/items/a90c3d42f809725f50ab (in Japanese)
 
 
